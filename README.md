@@ -3,7 +3,7 @@
 Note: if you get error for various modules, please install that module by using pip install <module name>
  ![image](https://user-images.githubusercontent.com/33965738/229947739-4dd68161-ca8a-4da0-b6f3-28b445adec26.png)
 
-Step 2: Press 1 Enter a port number: 888 Enter
+**Step 2:** Press 1 Enter a port number: 888 Enter
 ![image](https://user-images.githubusercontent.com/33965738/229947794-f633a5cd-defe-4693-828c-85b761d178a0.png)
 
 Step 3: open another cmd and run client.py 
