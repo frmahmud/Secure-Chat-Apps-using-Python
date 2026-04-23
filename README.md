@@ -14,7 +14,7 @@ Enter your name: Firoz
 
 ![image](https://user-images.githubusercontent.com/33965738/229947825-67a9be7b-35ad-4102-a387-7778cc9ad780.png)
 
-Step 4: Let open another cmd for another client by running client.py
+**Step 4:** Let open another cmd for another client by running client.py
 
 ![image](https://user-images.githubusercontent.com/33965738/229947846-03107d55-560a-4da4-bac3-c70bc240cc99.png)
 
