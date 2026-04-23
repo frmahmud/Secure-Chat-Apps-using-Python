@@ -1,5 +1,5 @@
 # Secure-Chat-Apps-using-Python
-Step 1: open cmd and run server.py 
+**Step 1:** open cmd and run server.py 
 Note: if you get error for various modules, please install that module by using pip install <module name>
  ![image](https://user-images.githubusercontent.com/33965738/229947739-4dd68161-ca8a-4da0-b6f3-28b445adec26.png)
 
