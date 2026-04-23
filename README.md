@@ -6,7 +6,7 @@ Note: if you get error for various modules, please install that module by using 
 **Step 2:** Press 1 Enter a port number: 888 Enter
 ![image](https://user-images.githubusercontent.com/33965738/229947794-f633a5cd-defe-4693-828c-85b761d178a0.png)
 
-Step 3: open another cmd and run client.py 
+**Step 3:** open another cmd and run client.py 
 Enter host name: 131.236.54.163
 Enter port name: 888
 Enter your name: Firoz
