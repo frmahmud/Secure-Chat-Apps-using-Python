@@ -3,7 +3,6 @@ from threading import Thread
 from helper import DESCrypto
 
 
-
 # define client class
 class Client:
     # constructor for client class, it requires a host address and port number to connect to
