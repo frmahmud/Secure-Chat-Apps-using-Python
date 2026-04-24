@@ -3,7 +3,6 @@ from threading import Thread
 from helper import DESCrypto
 
 
-
 # define server class
 class Server:
     # constructor for server class, will be executed when a Server object is created
